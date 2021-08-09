@@ -1,5 +1,5 @@
 text1 = "Selamat datang di dunia R!"
-text2 = "Anda akan terkesima dengan kehebatannya!"
+text2 = "Anda akan terkesima dengan kehebatannyaa!"
 
 teks1
 teks2
